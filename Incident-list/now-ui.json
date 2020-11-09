@@ -1,0 +1,24 @@
+{
+	"components": {
+	    "x-551472-incident-list": {
+			"innerComponents": [
+				"now-button",
+				"now-heading",
+				"now-loader",
+				"now-card",
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel",
+				"ui-effect-http"
+			],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Incident-list Component",
+				"icon": "document-outline",
+				"description": "A description of my component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_551472_test_in_0"
+}

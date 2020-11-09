@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-551472-hello-world": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Hello world",
+				"icon": "chart-forecast-fill",
+				"description": "Hello world component"
+			  }
+	    }
+	},
+	"scopeName": "x_551472_test_he_0"
+}
